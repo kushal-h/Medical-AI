@@ -56,7 +56,7 @@ pip install -r requirement.txt
 python app.py
 ``` 
 * Select the `problem` you want to check .
-* Update `input` for that specific prroblem and check the `prediction\output` .
+* Update `input` for that specific problem and check the `prediction\output` .
                                   
 ## About Contribution :
 * Raise the `issue` .
